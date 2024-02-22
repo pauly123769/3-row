@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar{
+	font-size: 20px;
+	background-color: #5F16B9;
+	display: flex;
+	gap: 20px;
+	justify-content: flex-end;
+}
+
+.navbar img{
+	align-self: flex-start;
+	height: 50px;
+}
+
+.bigshow_box{
+	border: solid;
+	width: 500px;
+}
+
+.bigshow{
+	height: 350px;
+	width: 450px;
+}
+
+.container{
+	flex-wrap: wrap;
+	gap: 20px;
+	display: inline-flex;
+	flex-direction: row;
+}
+
+.kane{
+	width: 500px;
+}
+
+.kane_box{
+	border: solid;
+	width: 450px;
+}
+
+.mark_box{
+	border: solid;
+	width: 450px;
+}
+
+.mark{
+	height: 360px;
+}
+
+
+
+
+
